@@ -28,7 +28,7 @@ public class Controller implements ActionListener, MouseMotionListener,
 
 	// set new memory, required for resuming where a new memory object will be
 	// loaded.
-	public void setMemory(Memory memory) {
+	public void setMemory(Memory memory) {//được sử dụng để thiết lập một đối tượng 
 		this.memory = memory;
 	}
 
